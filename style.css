@@ -1,0 +1,89 @@
+html,body{
+padding: 0;
+margin: 0;
+}
+
+.hero{
+    background-color: rgb(124, 220, 220);
+    color: white;
+    padding: 50px 30px;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin:0;
+}
+
+.hero:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background: linear-gradient(to left, rgb(94, 136, 136),rgb(95, 136, 136));
+
+}
+
+
+.hero h2 {
+  font-size: 1.5rem;
+  margin: 0px;
+  
+}
+
+.filter-nav{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+    
+}
+
+.filter-nav button{
+color: rgb(53, 177, 177);
+border: 1px solid rgb(124, 220, 220);
+border-radius: 10px;
+margin: 10px 30px;
+padding: 10px;
+font-size: 2rem;
+width: 350px;
+
+
+
+}
+
+
+  
+  
+.meal-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.meal-card {
+  width: 250px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.meal-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.meal-card h3 {
+  margin: 10px 0;
+}
+
