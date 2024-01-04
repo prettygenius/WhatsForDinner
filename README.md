@@ -12,8 +12,7 @@ Responsive design for optimal viewing on different devices.
 Clone the repository: bash   
 
 git clone https://github.com/prettygenius/WhatsForDinner.
-2. Navigate to the project directory:   
-bash cd WhatsForDinner 
+2. Navigate to the project directory: cd WhatsForDinner 
 3. Open the `index.html` file in your preferred web browser.
 4. Click on the "Menu" button to fetch a random meal suggestion or browse through different categories.
 
@@ -25,6 +24,6 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to the branch: git push origin my-feature
 5. Open a pull request.Please ensure that your pull request follows the project's code conventions and includes relevant documentation or tests.
 
-## LicenseThis project is licensed under the MIT License. 
+## License This project is licensed under the MIT License. 
 
 .## DemoCheck out the live demo of the application here[[Whats For Dinner? REplit]](https://replit.com/@prettygenius/WhatsForDinner)
