@@ -8,10 +8,9 @@ Provides detailed information about each meal, including ingredients and instruc
 Ability to search for specific meals.-
 Responsive design for optimal viewing on different devices.
 
-## Installation and Usage1. 
-Clone the repository: bash   
+## Installation
+1.Clone the repository: git clone https://github.com/prettygenius/WhatsForDinner.
 
-git clone https://github.com/prettygenius/WhatsForDinner.
 2. Navigate to the project directory: cd WhatsForDinner 
 3. Open the `index.html` file in your preferred web browser.
 4. Click on the "Menu" button to fetch a random meal suggestion or browse through different categories.
