@@ -9,13 +9,12 @@ Ability to search for specific meals.-
 Responsive design for optimal viewing on different devices.
 
 ## Installation
-1.Clone the repository: git clone https://github.com/prettygenius/WhatsForDinner.
+Clone the repository: git clone https://github.com/prettygenius/WhatsForDinner.
+Navigate to the project directory: cd WhatsForDinner 
+Open the `index.html` file in your preferred web browser.
+Click on the "Menu" button to fetch a random meal suggestion or browse through different categories.
 
-2. Navigate to the project directory: cd WhatsForDinner 
-3. Open the `index.html` file in your preferred web browser.
-4. Click on the "Menu" button to fetch a random meal suggestion or browse through different categories.
-
-## Technologies Used- HTML- CSS- JavaScript- MealDB API## ContributingContributions are welcome! 
+## Technologies Used- HTML- CSS- JavaScript- MealDB API## Contributions are welcome! 
 If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
 2. Create a new branch: git checkout -b my-feature
